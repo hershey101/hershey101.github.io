@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a software developer, currently working at financial technology firm in Manhattan. I'm interested in researching deep learning architectures. During my free time, I like to work out, watch movies and hack at side projects.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hersh92@gmail.com](mailto:hersh92@gmail.com)
