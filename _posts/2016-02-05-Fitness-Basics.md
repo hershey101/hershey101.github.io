@@ -8,8 +8,7 @@ The following post outlines a collection of thoughts regarding fitness and well-
 ##### A brief digression
 Although I have tried to make this a generally accessable blog post, a lot of the information I provide here are based upon my goals and objectives. I have always been a fairly skinny person with a highly active metabolism. My objectives over the past year and half of training have been to gain lean muscle tissue while manitaining my body fat levels, and increasing my cardivascular fitness. Therefore, some of the advice I provide, specifically with respect to diet, training and supplimentation will be with these objectives in mind. I'll try to call out these points so that you can pay more attention to them if your objectives align with mine.
 
-Dietary Overview:
------------------
+##Dietary Overview:
 There is a reason that diet is the first portion of this blog post. Your dietary intake will play a large part in how your body reacts to your training. A lot can be accomplished by simply keeping your diet in check, and ensuring that you aren't eating anything unhealthy.
 
 
@@ -22,40 +21,54 @@ At the end of the day, you know what's good for you and what's bad. Your body ca
 Eating clean healthy foods seems like a painful chore to most people, especially if you are not a vegiterian. It takes commitment and patience in the beginning, however, after a few months of clean eating you will see your body change and you will no longer feel the desire to eat greesy/oily/cheesy foods! After a year and half of clean eating, I feel sick just thinking about eating pizza (although I still do sometimes out of shear laziness). Just stick to it and your body and mind will thank you for it.
 
 
-Rest & Recovery:
-----------------
+##Rest & Recovery:
 This is arguably as important as your diet, if not more. Having proper rest and recovery is vital if you are training to gain muscle. Your body doesn't grow in the gym, it grows out of the gym, it's always useful to keep that in mind. While weight training you tear the muscle fibers, and it is out of the gym that they grow and get bigger. Proper rest is vital for your health and fitness. I strongly believe that everyone needs eight hours of peaceful sleep on a daily basis. (No you cannot "catch-up" on sleep by sleeping 12 hours a day during the weekend).
 In addition to proper sleep, your diet also plays a vital role in your recovery.
 Finally, it is important to ensure that you give your body enough time to recover between training sessions. While this might not seem like an issue if you are training a single body-part a day, it's useful to remember that you also need to give time for your Central Nervous System (CNS) to recover. This is espeically true after you have trained large body groups, such as legs, chest and back. These body parts take a huge toll on your CNS, so if you cannot go 5 days/week then think about adding a rest-day in the middle.
 
 
 #### Yoga/Stretching/SMR
-    An important part of rest and recovery is stretching. I like going to a yoga class twice a week to help me recover when I'm following a weight-trainning program, you should try it (and guys if that seems lame, just go there to look at the sexy girls, you'll improve your flexibility and have some attractive females to look at while doing so :smile:). In addition to yoga, getting a massage once in a while helps me when I'm feeling extremely stressed/exhausted.
+
+    An important part of rest and recovery is stretching. I like going to a yoga class twice a week to help me recover when I'm following a weight-trainning program, you should try it (and guys if that seems lame, just go there to look at the sexy girls, you'll improve your flexibility and have some attractive females to look at while doing so :smile:). In addition to yoga, getting a massage once in a while helps me when I'm feeling extremely stressed/exhausted.  
     Taking that hour or so out of your life a few times a week, and letting go of the stress allows your body to release the hormones/chemicals that help you recover and make you feel happy (#HighOnSerotonin).
 
     In addition yoga classes, making sure you are stretching before, after, and during your training means you are properly warmed up, and preventing injury while facilitating growth. In addition to proper stretching, it is important to conduct some Self-Myofascial Release (SMR) following a weight-training session. You can use a Trigger Point kit (such as the ones available at Equinox) or some foam rollers for this. Stretching the Fascia (basically an elastic connective tissue around your muscles and bones) gives more room for the muscle to grow. It also improves mobility and is important for injury prevention. I highly recommend investing the time and money into doing proper SMR on a daily basis.
 
 
-Weight Training:
-----------------
+##Weight Training:
 Finally we come to the weight training session. I'll keep this short and to the point.
-* When attempting to make a life-style change, it's important to be active every day. That means get your butt to the gym, go for a run, a hike, play some sports. Basically do something other than "Netflix and chill" on your days off.
-* I personally like to split my training on a per body-part basis, with legs being the first thing in the week (Mondays = legs day). I find the daily body-part split means I have enough energy and endurance when I walk into the gym in the morning to ensure the body part gets obliterated and has a chance to grow. I like to keep legs on Mondays (national chest day) to prevent being blocked on scarce resources (gym equipment during peak-time), and starting out the week on a bang. Try it, it'll make the rest of the week seem much easier by comparsion. Your legs are half your body, and consist of the two largest muscles in the body. It's vital to make sure you train them properly, and consistently.
-* Every set to failure!
+
++ When attempting to make a life-style change, it's important to be active every day. That means get your butt to the gym, go for a run, a hike, play some sports. Basically do something other than "Netflix and chill" on your days off.
+
++ I personally like to split my training on a per body-part basis, with legs being the first thing in the week (Mondays = legs day). I find the daily body-part split means I have enough energy and endurance when I walk into the gym in the morning to ensure the body part gets obliterated and has a chance to grow. I like to keep legs on Mondays (national chest day) to prevent being blocked on scarce resources (gym equipment during peak-time), and starting out the week on a bang. Try it, it'll make the rest of the week seem much easier by comparsion. Your legs are half your body, and consist of the two largest muscles in the body. It's vital to make sure you train them properly, and consistently.
+
++ Every set to failure!
+
     This means every single set you do, besides your warm-up sets, need to go to failure. Remember, if you are doing a set of 12 reps, your body doesn't change in the first 10 reps, it's the last 2 reps where you really struggle that the body grows. Don't go into the gym thinking you have to do 10 sets of arms and 20 sets of chest. You have 1 set, 1 chance, make sure you give it your all if you want to see results. Regardless of the training style you follow, drop-sets, pyramids, German Volume Training, HIT, etc., keeping this perspective in mind will totally change how effectively you train.
-* Work on your mind-muscle connection:
+
++ Work on your mind-muscle connection:
+
     When training, it's important to have a good mind-muscle connection to ensure you are training the body part you want to train, and secondary assisting muscles aren't taking over. This takes practice, and is very difficult to achieve, but keep at it. If you have a training partner, or a spotter, have them poke at the muscle while moving the weight and focus on squeezing that muscle. This is very useful for back muscles, and the rear-delts which are hard to issolate effectively. You'll see growth much faster once you have better mind-muscle connection and are effectively isolating the muscles you want to isolate.
-* Keep your form strict!!!
-    This is a vital bullet point for beginners. Don't forgo form for weight. Don't be emberresed if you are only swinging around 10lb dumbbells with your shoulders. Keeping your form strict helps isolate the muscle you want to work, and prevents injury. Remember, this is a marathon, not a sprint. Abusing your body with bad form will come back to hurt you later on in life, so keep it strict.
+
++ Keep your form strict!!!
+
+    This is a vital bullet point for beginners. Don't forgo form for weight. Don't be emberresed if you are only swinging around 10lb dumbbells with your shoulders. Keeping your form strict helps isolate the muscle you want to work, and prevents injury. Remember, this is a marathon, not a sprint. Abusing your body with bad form will come back to hurt you later on in life, so keep it strict.  
     As a follow up to this, make your reps count, don't count the reps. Make sure every rep you do is perfect, and don't cheat. If you are trying to work the negative to go beyond failure (please don't do this if you are just starting out), get the weights up in a safe way to protect your joints.
-* If it feels bad stop, and maybe lower the weights. You want to make sure you are tearing down muscle (and yes that hurts), not damaging your bones.
-* Keep up the cardio.
-    Doing cardio helps you develop the lung capacity so you can better move the weights, and you don't feel out of breath while training legs. Try some High-Intensity Interval Training (HIIT) if you are looking to up your cardiovascular capacity without loosing your weight gains. Just make sure you do your cardio.
+
++ If it feels bad stop, and maybe lower the weights. You want to make sure you are tearing down muscle (and yes that hurts), not damaging your bones.
+
++ Keep up the cardio.
+
+    Doing cardio helps you develop the lung capacity so you can better move the weights, and you don't feel out of breath while training legs. Try some High-Intensity Interval Training (HIIT) if you are looking to up your cardiovascular capacity without loosing your weight gains. Just make sure you do your cardio.  
     Make sure to get your cardio in on the rest days.
-* It's not just about getting a 6-pack
+
++ It's not just about getting a 6-pack
+
     Remember to give all your muscle groups equal priority to get a well-rounded physique, don't just do the abs workout because you want a six-pack.
-* Work your core just as hard!
-     Don't go to the other extreme and neglect your abs either. Your core stabilizers are vital to compound exercises, such as deadlifts, and squats. Keeping your core tight means training your abs from every angle, and using weights. Don't be afraid to train the abs with added resistance.
+
++ Work your core just as hard!
+
+     Don't go to the other extreme and neglect your abs either. Your core stabilizers are vital to compound exercises, such as deadlifts, and squats. Keeping your core tight means training your abs from every angle, and using weights. Don't be afraid to train the abs with added resistance.  
 
 
 This is a very brief list, check out [Bodybuilding website](http://www.bodybuilding.com) for more information.
@@ -66,10 +79,11 @@ I have tried [Kris Gethin's Muscle Building Trainer](http://www.bodybuilding.com
 Supplimentation:
 ----------------
 Suppliments are just that, suppliments. They can assist a good diet, and workout, but they aren't a magic pill to solve everything. That being said, here are suppliments that I take on a regular basis:
-    * Optimum Nutrition Whey Isolate: This protein is perfect for post-workout protein, and sipping on something during the day.
-    * Optimum Nutrition Casein: Casein is great as a pre-bedtime snack. The slow digestion of Casein means it provides your body with nutrition during the 8 hour fast (sleep).
-    * Optimum Nutrition Creatine: This is the most useful, well-studied suppliment. I take a single serving on training days post-workout. Research shows time ouf intake doesn't matter much, but consitantly taking creatine allows your body to function much more efficiently.
-    * Optimum Nutrition Gold Standard Pre-workout: I take this pre-workout during training days to give that bit of extra boost to my workouts.
+
+    * Optimum Nutrition Whey Isolate: This protein is perfect for post-workout protein, and sipping on something during the day.  
+    * Optimum Nutrition Casein: Casein is great as a pre-bedtime snack. The slow digestion of Casein means it provides your body with nutrition during the 8 hour fast (sleep).  
+    * Optimum Nutrition Creatine: This is the most useful, well-studied suppliment. I take a single serving on training days post-workout. Research shows time ouf intake doesn't matter much, but consitantly taking creatine allows your body to function much more efficiently.  
+    * Optimum Nutrition Gold Standard Pre-workout: I take this pre-workout during training days to give that bit of extra boost to my workouts.  
     * BCAAs: I take half a scoop of extra BCAAs during my intra-workout/post-workout. I find the Whey Isolate has plenty of BCAAs for me, so half a scoop is more than enough
 
 
