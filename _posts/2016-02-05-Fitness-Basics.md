@@ -27,7 +27,7 @@ In addition to proper sleep, your diet also plays a vital role in your recovery.
 Finally, it is important to ensure that you give your body enough time to recover between training sessions. While this might not seem like an issue if you are training a single body-part a day, it's useful to remember that you also need to give time for your Central Nervous System (CNS) to recover. This is espeically true after you have trained large body groups, such as legs, chest and back. These body parts take a huge toll on your CNS, so if you cannot go 5 days/week then think about adding a rest-day in the middle.
 
 
-#### Yoga/Stretching/SMR
+### Yoga/Stretching/SMR
 
     An important part of rest and recovery is stretching. I like going to a yoga class twice a week to help me recover when I'm following a weight-trainning program, you should try it (and guys if that seems lame, just go there to look at the sexy girls, you'll improve your flexibility and have some attractive females to look at while doing so :smile:). In addition to yoga, getting a massage once in a while helps me when I'm feeling extremely stressed/exhausted.  
     Taking that hour or so out of your life a few times a week, and letting go of the stress allows your body to release the hormones/chemicals that help you recover and make you feel happy (#HighOnSerotonin).
