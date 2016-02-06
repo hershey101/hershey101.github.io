@@ -5,7 +5,7 @@ title: Fitness/Workout Basics
 
 The following post outlines a collection of thoughts regarding fitness and well-being. I'll summarize the knowledge I have aquired over the past year and half of weight training, and hopefully provide a starting point for those who are willing to commit to a lifetime of proper fitness, diet and general well-being.
 
-##### A brief digression
+### A brief digression
 Although I have tried to make this a generally accessable blog post, a lot of the information I provide here are based upon my goals and objectives. I have always been a fairly skinny person with a highly active metabolism. My objectives over the past year and half of training have been to gain lean muscle tissue while manitaining my body fat levels, and increasing my cardivascular fitness. Therefore, some of the advice I provide, specifically with respect to diet, training and supplimentation will be with these objectives in mind. I'll try to call out these points so that you can pay more attention to them if your objectives align with mine.
 
 ##Dietary Overview:
@@ -95,11 +95,11 @@ Motivation:
 -----------
 Finding motivation is important because it gets you through the down days, and stops you from quiting. Figure out why you started training, and find motivation to keep on going on days you feel tired.
 
-#### Support Systems
+### Support Systems
 External support systems, eg. blogs, friends, family etc. can be a great motivator. If you are the type of person who has tried before to change and ended up quitting, find an external support system, or maybe a gym buddy. Some way of being accountable such that you will continue to workout and train. Hopefully one day you get to the point that you don't need external motivation and train because you love it.
 
 
-#### Encorporating your Fitness/Wellness goals in daily life
+### Encorporating your Fitness/Wellness goals in daily life
 Finally, it's important to keep in mind that fitness is a life-style, not just a few hours at the gym. Keep your fitness goals in mind wherever you are, whatever you are doing. Get a standing desk instead of sitting at work, keep your back straight and your head up. Think about your workouts, and what you'll do, and what you'll accomplish before going to the gym. When you enter the gym, you'll just be going through the motions, and will no longer feel tired.
 Keep your goals in life before going out on a friday night so that you don't take that drink, or eat that cheesy popcorn. Every little thing helps you make the lifestyle change that you'll be proud of.
 
