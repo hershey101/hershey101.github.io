@@ -80,11 +80,15 @@ Supplimentation:
 ----------------
 Suppliments are just that, suppliments. They can assist a good diet, and workout, but they aren't a magic pill to solve everything. That being said, here are suppliments that I take on a regular basis:
 
-    * Optimum Nutrition Whey Isolate: This protein is perfect for post-workout protein, and sipping on something during the day.  
-    * Optimum Nutrition Casein: Casein is great as a pre-bedtime snack. The slow digestion of Casein means it provides your body with nutrition during the 8 hour fast (sleep).  
-    * Optimum Nutrition Creatine: This is the most useful, well-studied suppliment. I take a single serving on training days post-workout. Research shows time ouf intake doesn't matter much, but consitantly taking creatine allows your body to function much more efficiently.  
-    * Optimum Nutrition Gold Standard Pre-workout: I take this pre-workout during training days to give that bit of extra boost to my workouts.  
-    * BCAAs: I take half a scoop of extra BCAAs during my intra-workout/post-workout. I find the Whey Isolate has plenty of BCAAs for me, so half a scoop is more than enough
++ Optimum Nutrition Whey Isolate: This protein is perfect for post-workout protein, and sipping on something during the day.
+
++ Optimum Nutrition Casein: Casein is great as a pre-bedtime snack. The slow digestion of Casein means it provides your body with nutrition during the 8 hour fast (sleep).
+
++ Optimum Nutrition Creatine: This is the most useful, well-studied suppliment. I take a single serving on training days post-workout. Research shows time ouf intake doesn't matter much, but consitantly taking creatine allows your body to function much more efficiently.
+
++ Optimum Nutrition Gold Standard Pre-workout: I take this pre-workout during training days to give that bit of extra boost to my workouts.
+
++ BCAAs: I take half a scoop of extra BCAAs during my intra-workout/post-workout. I find the Whey Isolate has plenty of BCAAs for me, so half a scoop is more than enough
 
 
 Motivation:
