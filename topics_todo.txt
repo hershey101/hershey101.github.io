@@ -1,0 +1,19 @@
+Topics:
+-------
+
+1. Marriage
+    - What is marriage?
+    - Who should get married? How do you decide who the right person is to
+      marry? At what point are you ready for marriage?
+    - What are qualities to look for when searching for a partner?
+    - What is the appropriate search algorithm? Dating, apps, matrimonials,
+      friends/family etc.?
+    - What are the ground rules that need to be established before proceeding
+      to ensure a successful marriage?
+2. Religion/God
+    - What is God? How do you define God?
+    - Why do most brilliant people believe in the existence of God?
+    - How do you reconcile religion/science?
+3. Deep learning methods
+    - Introduction to deep learning
+    - Examples of deep learning usage
