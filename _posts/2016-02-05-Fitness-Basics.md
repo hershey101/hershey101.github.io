@@ -15,7 +15,7 @@ muscle tissue while maintaining my body fat levels, and increasing my
 cardiovascular fitness. Therefore, some of the advice I provide, specifically
 with respect to diet, training and supplementation will be with these objectives in mind. I'll try to call out these points so that you can pay more attention to them if your objectives align with mine.
 
-##Dietary Overview:
+## Dietary Overview:
 There is a reason that diet is the first portion of this blog post. Your dietary intake will play a large part in how your body reacts to your training. A lot can be accomplished by simply keeping your diet in check, and ensuring that you aren't eating anything unhealthy.
 
 
@@ -33,7 +33,7 @@ Eating clean healthy foods seems like a painful chore to most people,
 especially if you are not a vegetarian. It takes commitment and patience in the beginning, however, after a few months of clean eating you will see your body change and you will no longer feel the desire to eat greesy/oily/cheesy foods! After a year and half of clean eating, I feel sick just thinking about eating pizza (although I still do sometimes out of shear laziness). Just stick to it and your body and mind will thank you for it.
 
 
-##Rest & Recovery:
+## Rest & Recovery:
 This is arguably as important as your diet, if not more. Having proper rest and recovery is vital if you are training to gain muscle. Your body doesn't grow in the gym, it grows out of the gym, it's always useful to keep that in mind. While weight training you tear the muscle fibers, and it is out of the gym that they grow and get bigger. Proper rest is vital for your health and fitness. I strongly believe that everyone needs eight hours of peaceful sleep on a daily basis. (No you cannot "catch-up" on sleep by sleeping 12 hours a day during the weekend).
 In addition to proper sleep, your diet also plays a vital role in your recovery.
 Finally, it is important to ensure that you give your body enough time to
@@ -51,7 +51,7 @@ Taking that hour or so out of your life a few times a week, and letting go of th
 In addition yoga classes, making sure you are stretching before, after, and during your training means you are properly warmed up, and preventing injury while facilitating growth. In addition to proper stretching, it is important to conduct some Self-Myofascial Release (SMR) following a weight-training session. You can use a Trigger Point kit (such as the ones available at Equinox) or some foam rollers for this. Stretching the Fascia (basically an elastic connective tissue around your muscles and bones) gives more room for the muscle to grow. It also improves mobility and is important for injury prevention. I highly recommend investing the time and money into doing proper SMR on a daily basis.
 
 
-##Weight Training:
+## Weight Training:
 Finally we come to the weight training session. I'll keep this short and to the point.
 
 + When attempting to make a life-style change, it's important to be active every day. That means get your butt to the gym, go for a run, a hike, play some sports. Basically do something other than "Netflix and chill" on your days off.
