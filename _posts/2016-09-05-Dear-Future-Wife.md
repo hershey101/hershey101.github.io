@@ -9,21 +9,21 @@ the following sections (from here on, I will frequently change the tone of my
 writing as if I am talking directly to someone who could, potentially be my
 life-partner):
 
-* Who/Why: These sections describe the intended audience of this post, as well
+* __Who/Why__: These sections describe the intended audience of this post, as well
 my reasoning behind writing it.
-* About Me: Here I will give a brief overview of who I am, while reading this
+* __About Me__: Here I will give a brief overview of who I am, while reading this
 section, ask yourself, is this the type of person who you can see yourself
 spending the rest of your life with.
-* My Ideal Soulmate: While I don't necessarily believe in soulmates (and
+* __My Ideal Soulmate__: While I don't necessarily believe in soulmates (and
 frankly this title sounds pretty cheesy), here I will outline the type of mate
 that I'm looking for. I will break this section down into two parts, the
 "non-negotiables", and the "nice-to-haves". If you don't satisfy a criteria in
 the first category, then it's a deal-breaker. On the other hand, satisfying
 items from the second category earn you bonus points but none of them are
 must haves.
-* Our Life Together: This is pretty self-explanetory. Here I will discuss how
+* __Our Life Together__: This is pretty self-explanetory. Here I will discuss how
 I envision our life together.
-* Higher-level Spiritual/Philosophical Ideas: The reason I left this section
+* __Higher-level Spiritual/Philosophical Ideas__: The reason I left this section
 till the very end is that I would like this to be a starting point, and an
 initial guide, for the hours long conversations we will un-doubtably have when
 we meet. I will describe some basics here, but the idea is really for us to
@@ -32,7 +32,7 @@ better.
 
 
 The Who and The Why
-------------------
+===================
 As I alluded to earlier, this blog post is primarily oriented towards
 potential candidates that I might consider marrying, which means women (
 Indian, most likely Gujurati) between the ages of 18-25.
@@ -88,8 +88,9 @@ was it's own reward.
 
 
 About Me
---------
-## Who Am I?
+========
+Who Am I?
+---------
 This is a tough question to answer. It is one of life's biggest mysteries.
 Looking inward, trying to establish a sense of identity, and forever pursuing
 a better you is something that you do your entire life. Therefore, the
@@ -102,8 +103,9 @@ Cornell University and is (as of writing this), working on Uber-cool projects
 related to self-driving vehicles. [Check it out!](https://www.uberatc.com)
 
 
-## Entities I Associate With
+Entities I Associate With
+-------------------------
 
 
 Who Am I Looking For
---------------------
+====================
