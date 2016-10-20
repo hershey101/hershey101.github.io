@@ -5,14 +5,14 @@ title: Dear Future Wife/Marriage Manifesto
 Today, I will try to describe some of the things that I would like my future
 wife to know about me, as well as the contents of what I like to call,
 "The Marriage Manifesto". At a high level, this post is going to be split into
-the following sections (from here on, I will frequently change the tone of my
-writing as if I am talking directly to someone who could, potentially be my
-life-partner):
+the following sections:
 
-* [__Who/Why__](#who/why): These sections describe the intended audience of this post, as well
-my reasoning behind writing it.
-* [__About Me__](#about-me): Here I will give a brief overview of who I am, while reading this
-section, ask yourself, is this the type of person who you can see yourself
+* [__Who/Why__](#who/why): These sections describe the intended audience of this post, as well as
+my reasoning behind writing it. (Beyond this section, I will change the tone of my
+writing as if I am talking directly to someone who could potentially be my
+life-partner)
+* [__About Me__](#about-me): Here I will give a brief overview of who I am.
+While reading this section, ask yourself, is this the type of person who you can see yourself
 spending the rest of your life with.
 * [__My Ideal Soul-mate__](#ideal-soul-mate): While I don't necessarily believe in soul-mates (and
 frankly this title sounds pretty cheesy), here I will outline the type of mate
@@ -106,7 +106,7 @@ Let's see, on paper, I'm a 23-year-old Software Developer who graduated from
 Cornell University and is (as of writing this), working on Uber-cool projects
 related to self-driving vehicles. [Check it out!](https://www.uberatc.com)
 I enjoy working out, watching movies/TV, playing video games (I do the latter
-two way more than I probably should) and outdoorsy activities such as hiking.
+two way more than I probably should) and outdoorsy activities such as hiking/biking.
 
 Now, if this were a dating profile, or a matrimonial profile (i.e. shaadi.com)
 that would be all the information provided to you to base your decision on
@@ -139,18 +139,32 @@ be very helpful to think about how these points would play with your lifestyle):
   doing, and it becomes an itch that makes it difficult to focus on anything else.
   I think it is very important for whoever my life-partner is to be able to
   understand this feeling.
+* I need to be active (both physically and mentally):
+  - As much as I enjoy traveling, and bumming around on weekends doing nothing, I
+  am the type of person who gets bored by it and needs to do some work during a
+  vacation (beyond a week) just to keep myself occupied (Note that the work need
+  not be related to my job).
+  - I also get very irritable if I haven't gone to the gym in a while, or if my
+  workout schedule is somehow disturbed due to travel, time off etc. I'll make
+  travel decisions, and choose hotels based upon the gyms available nearby so that
+  I can make sure I get some exercise in even if I am on vacation. During my last
+  few trips to India, I even packed my bags full of protein powder (it took up
+  more space than my clothes!) just so I could keep my diet and workout schedule
+  on point during a month of travel.
+    - I like vacations which involve a lot of physical exercise (walking, hiking, biking, tennis, etc.) so I can at least keep my cardio up even if I'm out of the gym
 
-%TODO(hmehta): FINISH THIS
+%TODO(hmehta): Add more details!
 
 Entities I Associate With
 -------------------------
 
-
+%TODO(hmehta): Complete me!
 
 <a name="ideal-soul-mate"></a>My Ideal Soul-mate
 =================
 
-
+Humans are complicated creatures, trying to understand what goes on in one's
+brain is one of the most difficult questions to answer. 
 
 <a name="life-together"></a>Our Life Together
 =================
