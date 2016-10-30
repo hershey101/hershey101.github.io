@@ -167,6 +167,16 @@ Entities I Associate With
 Humans are complicated creatures, trying to understand what goes on in one's
 brain is one of the most difficult questions to answer. 
 
+The "Non-Negotiables":
+----------------------
+
+Below is a list of things that
+
+-
+
+The "Nice-to-haves":
+--------------------
+
 <a name="life-together"></a>Our Life Together
 =================
 
