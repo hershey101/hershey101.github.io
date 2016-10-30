@@ -7,13 +7,13 @@ wife to know about me, as well as the contents of what I like to call,
 "The Marriage Manifesto". At a high level, this post is going to be split into
 the following sections:
 
-* [__Who/Why__](#who/why): These sections describe the intended audience of this post, as well as
-my reasoning behind writing it. (Beyond this section, I will change the tone of my
-writing as if I am talking directly to someone who could potentially be my
-life-partner)
+* [__Who/Why__](#who/why): This section describes the intended audience of this
+post, as well as my reasoning behind writing it.
+(Beyond this section, I will change the tone of my writing as if I am talking
+directly to someone who could potentially be my life-partner)
 * [__About Me__](#about-me): Here I will give a brief overview of who I am.
 While reading this section, ask yourself, is this the type of person who you can see yourself
-spending the rest of your life with.
+spending the rest of your life with?
 * [__My Ideal Soul-mate__](#ideal-soul-mate): While I don't necessarily believe in soul-mates (and
 frankly this title sounds pretty cheesy), here I will outline the type of mate
 that I'm looking for. I will break this section down into two parts, the
@@ -21,7 +21,7 @@ that I'm looking for. I will break this section down into two parts, the
 the first category, then it's a deal-breaker. On the other hand, satisfying
 items from the second category earn you bonus points but none of them are
 must haves.
-* [__Our Life Together__](#life-togther): This is pretty self-explanatory. Here I will discuss how
+* [__Our Life Together__](#life-together): This is pretty self-explanatory. Here I will discuss how
 I envision our life together.
 * [__Higher-level Spiritual/Philosophical Ideas__](#philosophical-ideas): The reason I left this section
 till the very end is that I would like this to be a starting point, and an
@@ -37,8 +37,8 @@ to isolate certain points so that they fall in exactly one of these categories.
 ===================
 
 As I alluded to earlier, this blog post is primarily oriented towards
-potential candidates that I might consider marrying, which means women (
-Indian, most likely Gujarati) between the ages of 18-25.
+potential candidates that I might consider marrying, which means women
+(Indian, and most likely Gujarati) between the ages of 18-25.
 
 The question of why is trickier to answer. On one hand, it may seem naive of
 me to assume that I can systematically identify criterion for a person that
@@ -55,8 +55,8 @@ The objective for today isn't to debate the validity of "love". In fact, I'm
 not sure if there is such a thing as "love", and this question should probably
 be reserved for the last section of this post. Nevertheless, I am convinced
 that the modern notions of romantic love have become synonymous with the
-release of dopamine, serotonin and oxytocin. These chemical reactions are what inexperienced people
-often confuse with love, and can easily become the basis of bad-decisions such
+release of dopamine, serotonin and oxytocin. These chemical reactions are what inexperienced
+people often confuse with love, and can easily become the basis of bad-decisions such
 as getting married with the wrong person. Worse yet, once one understands
 this, one can easily manipulate the release of these chemicals in others to
 achieve nefarious objectives. Therefore, I believe that it is vital to involve
@@ -69,8 +69,8 @@ serves a more practical purpose. Some simple calculations say that there are
 potentially on the order of 100K to 1M women who would fit what I would call
 the "on-paper" criteria for potentially eligible brides (for me at least).
 These are filters such as gender, age, ethnicity, religion, looks. The typical
-filters that Indians use when sorting from a list of potential candidates (
-husbands or wives). However, meeting all of these women, getting to know them,
+filters that Indians use when sorting from a list of potential candidates
+(husbands or wives). However, meeting all of these women, getting to know them,
 and then deciding whom I like is simply an intractable problem. This blog post
 provides me with a mechanism for making the search process more efficient,
 potential candidates can read this and make a more informed decision on whether
@@ -97,7 +97,7 @@ Who Am I?
 
 This is a tough question to answer. It is one of life's biggest mysteries.
 Looking inward, trying to establish a sense of identity, and forever pursuing
-a better you is something that you do your entire life. Therefore, the
+a better you is something that one should do their entire life. Therefore, the
 question "Who Am I?" is never truly answered. Nevertheless, I'll try to
 answer the basics of this question and leave the deeper philosophical ideas for
 later in this blog post, and subsequent other posts.
@@ -108,7 +108,7 @@ related to self-driving vehicles. [Check it out!](https://www.uberatc.com)
 I enjoy working out, watching movies/TV, playing video games (I do the latter
 two way more than I probably should) and outdoorsy activities such as hiking/biking.
 
-Now, if this were a dating profile, or a matrimonial profile (i.e. shaadi.com)
+Now, if this were a dating profile, or a matrimonial profile (i.e. okcupid/shaadi.com)
 that would be all the information provided to you to base your decision on
 whether or not to contact me. That's just plain stupid!
 
@@ -151,7 +151,8 @@ be very helpful to think about how these points would play with your lifestyle):
   few trips to India, I even packed my bags full of protein powder (it took up
   more space than my clothes!) just so I could keep my diet and workout schedule
   on point during a month of travel.
-    - I like vacations which involve a lot of physical exercise (walking, hiking, biking, tennis, etc.) so I can at least keep my cardio up even if I'm out of the gym
+    - I like vacations which involve a lot of physical exercise (walking, hiking, biking, tennis, etc.)
+    so I can at least keep my cardio up even if I'm out of the gym
 
 %TODO(hmehta): Add more details!
 
