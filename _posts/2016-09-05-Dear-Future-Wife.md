@@ -160,16 +160,16 @@ be very helpful to think about how these points would play with your lifestyle):
     - I like vacations which involve a lot of physical exercise (walking, hiking, biking,
       tennis, etc.)
     so I can at least keep my cardio up even if I'm out of the gym
- * I focus on exactly one primary thing at a time in my life, and make that the priority above all
+* I focus on exactly one primary thing at a time in my life, and make that the priority above all
    else. All of the decisions I make during that time are centered around how they can help me
    achieve the primary goal.
-     - I like to work hard, and play hard.
+    - I like to work hard, and play hard.
 
 
 Entities I Associate With
 -------------------------
 
-* Swami Vivekananda/Pandurang-Shashri Athevle (Dadaji if you are a "Swadhyayie?")
+* Swami Vivekananda/Pandurang-Shashri Athevle (Dadaji if you are a "Swadhyayie". Completely butchered the spelling of that word.)
   - Vivekananda was one of the greatest figures in Indian history, and a person that I look up to
   and respect a lot. First and foremost, I highly recommend everyone who is interested in the
   Vedic philosophy to read his wiki entry, followed up with 'The Complete Works of Swami
@@ -232,23 +232,23 @@ Entities I Associate With
   I'll grow up just a little bit before I have kids so that she doesn't have to deal with one
   more kid (I doubt it though :P).
 * Just some "regular" guy
-  - Just like everyone else I get jealous, angry, want to be a bum, sometimes desire things
+  - Just like everyone else I get jealous/angry, want to be a bum, sometimes desire things
   which aren't good for me, enjoy sex etc.
-
-%TODO(hmehta): Complete me!
 
 <a name="ideal-soul-mate"></a>My Ideal Soul-mate
 =================
 
-Humans are complicated creatures, trying to understand what goes on in one's
-brain is one of the most difficult questions to answer. 
+Trying to determine who you are is a fairly challenging task, answering the question of
+who you want to be with takes things to a new level.
 
 The "Non-Negotiables":
 ----------------------
 
-Below is a list of things that
+Below is a list of characteristics that are aboslutely necessary for us to work as a
+couple.
 
--
+* Intelligence, determination, and a drive to accomplish whatever your heart desires.
+  - By intelligence, I mean a combination of book smarts as well as general common sense.
 
 The "Nice-to-haves":
 --------------------
