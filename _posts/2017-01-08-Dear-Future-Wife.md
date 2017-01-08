@@ -10,7 +10,7 @@ the following sections:
 * [__Who/Why__](#who/why): This section describes the intended audience of this
 post, as well as my reasoning behind writing it.
 (Beyond this section, I will change the tone of my writing as if I am talking
-directly to someone who could potentially be my life-partner)
+directly to someone who could potentially be my life partner.)
 * [__About Me__](#about-me): Here I will give a brief overview of who I am.
 While reading this section, ask yourself, is this the type of person who you can see yourself
 spending the rest of your life with?
@@ -22,9 +22,9 @@ the first category, then it's a deal-breaker. On the other hand, satisfying
 items from the second category earn you bonus points but none of them are
 absolute necessities (though lacking a significant number of characteristics from
 this list may aggregate into a deal-breaker).
-* [__Our Life Together__](#life-together): This is pretty self-explanatory. Here I will discuss how
+* [__Our Life Together__](#life-together): This is pretty self explanatory. Here I will discuss how
 I envision our life together.
-* [__Topics For Conversation__](#conversation-topics): A bullet-point list for random
+* [__Topics For Conversation__](#conversation-topics): A bullet point list for random
 topics I want to talk about with my wife/significant-other during the course of us getting
 to know each other. TBH, I'm afraid that if I list everything here, we won't have anything
 interesting left to talk about when we get married. Oh well, we'll cross that bridge when
@@ -44,7 +44,7 @@ The question of why is trickier to answer. On one hand, it may seem naive of
 me to assume that I can systematically identify criterion for a person that
 I would fall in love with. On the other, I feel that the current mechanisms
 for finding one's significant other are primitive and out-dated. As an
-intellectual, I rely on my neo-cortex for analyzing situations and making
+intellectual, I rely on my neocortex for analyzing situations and making
 the correct decision when confronted with life-changing questions. On the other hand, I
 rely on my primitive, animalistic nature to make the appropriate flight-or-flight
 response in life-or-death situations. However, in today's society, it is
@@ -56,14 +56,14 @@ not sure if there is such a thing as "love", and this question should probably
 be reserved for the last section of this post. Nevertheless, I am convinced
 that the modern notions of romantic love have become synonymous with the
 release of dopamine, serotonin and oxytocin. These chemical reactions are what inexperienced
-people often confuse with love, and can easily become the basis of bad-decisions such
+people often confuse with love, and can easily become the basis of bad decisions such
 as getting married with the wrong person. Worse yet, once one understands
 this, one can easily manipulate the release of these chemicals in others to
 achieve nefarious objectives. Therefore, I believe that it is vital to involve
 the pre-frontal cortex when making, what is arguably the most important
 decision of one's life.
 
-While, this blog post primarily acts as a mechanism for my neo-cortex to
+While, this blog post primarily acts as a mechanism for my neocortex to
 isolate and summarize the requirements for someone I would marry, it also
 serves a more practical purpose. Some simple calculations say that there are
 potentially on the order of 100K to 1M women who would fit what I would call
@@ -75,9 +75,9 @@ and then deciding whom I like is simply an intractable problem. This blog post
 provides me with a mechanism for making the search process more efficient;
 potential candidates can read this and make a more informed decision on whether
 or not we would be compatible quickly! Furthermore, I can take advantage of
-crowd-sourcing by providing this post to third-parties who would be interested
+crowd sourcing by providing this post to third-parties who would be interested
 in setting me up with a woman (eg. friends, family etc.) by giving them more
-well-defined search criteria (and potentially a finders fee, say, $5,000 to get
+well defined search criteria (and potentially a finders fee, say, $5,000 to get
 them really motivated). Why you might ask. Your significant other is the one
 person in your life that will be with you the longest (potentially 70+ years).
 Therefore, it is reasonable for you to put significant effort in trying to
@@ -108,7 +108,7 @@ related to self-driving vehicles. [Check it out!](https://www.uberatc.com)
 I enjoy working out, watching movies/TV, playing video games (I do the latter
 two way more than I probably should) and outdoorsy activities such as hiking/biking.
 
-Now, if this were a dating profile, or a matrimonial profile (i.e. okcupid.com/shaadi.com)
+Now, if this were a dating profile, or a matrimonial profile (i.e. [OkCupid](https://www.okcupid.com)/[shaadi.com](https://www.shaadi.com))
 that would be all the information provided to you to base your decision on
 whether or not to contact me. That's just plain stupid!
 
@@ -116,19 +116,19 @@ So here's a bit more information (Note that while you are reading this, it would
 be very helpful to think about how these points would play with your lifestyle):
 
 * I'm a man who follows a (relatively) tight routine, especially on my workout days
-  - During the work-week, my schedule usually tends to be: Wake up at 6:00AM, eat
+  - During the work week, my schedule usually tends to be: Wake up at 6:00AM, eat
   breakfast, get ready, go to the gym for a couple of hours. Try to get into the
   office by 10:30AM. The benefit of being a developer is I get to make my own
   hours, but the downside to that this can fluctuate a lot and I hate myself for
-  going to work after 11:00AM (even if no-one cares). I get home around 7:00PM,
+  going to work after 11:00AM (even if no one cares). I get home around 7:00PM,
   eat, unwind (maybe watch TV or a movie) and go to bed by 10:00PM. My friend
   calls me "grandpa" haha! :smile:
     - Fridays and weekends are much more unstructured, and obviously so are
     vacations. There is a lot more I could say here, but I will move on since
-    subsequent bullet-points have a higher ROI.
+    subsequent bullet points have a higher ROI.
 * When I am focused on a challenging problem, I am in my __DO NOT DISTURB__ mode:
-  - This bullet-point is primarily
-  a carry-over from my college days and is far less applicable now that
+  - This bullet point is primarily
+  a carryover from my college days and is far less applicable now that
   work is quite independent from my personal life. Nevertheless, I feel it
   necessary to include here since it is a vital part of my personality, and
   applies to so much more than just my work (obviously, I have other things
@@ -163,16 +163,16 @@ be very helpful to think about how these points would play with your lifestyle):
 Entities I Associate With
 -------------------------
 
-* Swami Vivekananda/Pandurang-Shashri Athevle (Dadaji if you are a "Swadhyayie". Completely butchered the spelling of that word.)
+* [Swami Vivekananda][Vivekananda]/[Pandurang-Shashri Athevle][Dadaji] (Dadaji if you are a "Swadhyayie". Completely butchered the spelling of that word.)
   - Vivekananda was one of the greatest figures in Indian history, and a person that I look up to
   and respect a lot. First and foremost, I highly recommend everyone who is interested in the
   Vedic philosophy to read his wiki entry, followed up with 'The Complete Works of Swami
   Vivekananda' (a 9-volume collection of his works). Although the English translation of his works
   aren't perfect, they are only matched in quality and level-of-thinking by the likes of Ramanuja 
   and Ramakrishna. These were the greatest thinkers of their time who brought forth the
-  non-dualistic school of thought and really took Indian philosophy and the Vedanta to new 
+  [non-dualistic][Nondualism] school of thought and really took Indian philosophy and the Vedanta to new 
   heights.
-    - Today, while India has forgotten that it gave birth to some of the greatest pratical 
+    - Today, while India has forgotten that it gave birth to some of the greatest practical 
     philosophy of all time, these thoughts are being carefully analyzed in the West at places
     like Cornell, Stanford, and Oxford.
     - One of the most important things I can do for myself is to properly understand, and 
@@ -215,7 +215,7 @@ Entities I Associate With
   For some reason, I have always been attracted to tigers, and I hope to even own a pair of
   tigers one day (a pair so they can breed and don't die in captivity).
 * A little kid
-  - I love kids, and I often am child-like when it comes to things like cars, toys, video games etc.
+  - I love kids, and I often am childlike when it comes to things like cars, toys, video games etc.
   I make an effort to preserve my childhood innocence and boyish wonder as years go on.
   - The quintessential example of when I'm a little kid in a candy store is when I'm learning new
   computer science algorithms, or thinking about physics and mathematics. __IT'S JUST SO FREAKING
@@ -245,11 +245,11 @@ couple.
 * Intelligence, determination, and a drive to accomplish whatever you set your mind to.
   - By intelligence, I mean a combination of book smarts as well as general common sense.
   This is extremely important to me for a number of reasons. First, and foremost, it's essentially
-  a pre-requisite for me to respect you. Next, I believe that intelligent people have an obligation
+  a prerequisite for me to respect you. Next, I believe that intelligent people have an obligation
   to society to reproduce, and pass on their genes to create an even smarter next-generation. I 
   think of it like the counteracting force to slow down the momentum of idiots reproducing and 
-  making the world into Idiocracy (highly recommend that movie if you haven't seen it). Also, for
-  whatever it's worth Elon Musk agrees with this general thought process (his biography is pretty
+  making the world into [Idiocracy][Idiocracy] (highly recommend that movie if you haven't seen it). Also, for
+  whatever it's worth Elon Musk agrees with this general thought process (his [biography][Elon biography] is pretty
   cool, check that out as well).
     - Communications is obviously important to a healthy relationship, and my willingness to
     communicate with someone goes hand-in-hand with how intelligent they are. I can't stand people
@@ -268,7 +268,7 @@ couple.
     whose the opposite of that.
 * You need to be the type of person who prioritizes healthy living
   - Go work out, do yoga, follow a diet etc. I spend about two hours at the gym every day, I
-  expect my significant other to give equal importance to her body and well-being. While there
+  expect my significant other to give equal importance to her body and wellbeing. While there
   are certain factors in life which are beyond our control, this is one that is definitely well
   within your control, and something that should be prioritized if you want to live a healthy life.
 * You absolutely must be interested in philosophy/spirituality
@@ -291,7 +291,7 @@ The "Nice-to-haves":
   and see they graduated from an Ivy league college. You implicitly have some faith that they 
   can't be complete idiots.
 * Speaking of which, be a STEM graduate from an Ivy league or equivalent school (or currently be studying in one).
-  - I don't really want to write-off non-STEM people without meeting them, but it's highly unlikely
+  - I don't really want to write off non-STEM people without meeting them, but it's highly unlikely
   that we would get along, based on my past experiences and ex-girlfriends.
   - Your college years are some of the most formative years that define who you are going to be in
   life in a lot of ways. Being from a top-tier school definitely matters because we will have
@@ -323,7 +323,7 @@ astrophysics or quantum mechanics), or Mathematics
 =================
 
 Obviously there are tons of things I want to do with you, after all, if we are going to be together
-for 70-80 years of our lives, we better have some way to pass that time.
+for seventy to eighty years of our lives, we better have some way to pass that time.
 
 Here's a small list of some of the things we will do:
 
@@ -396,3 +396,9 @@ __Miscellaneous Other Topics:__
 * College experiences (study sessions, homeworks/exams, girlfriends etc.).
 * Random childhood memories.
 * Child-rearing ideologies.
+
+[Elon biography]: https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X/
+[Idiocracy]: https://en.wikipedia.org/wiki/Idiocracy
+[Dadaji]: https://en.wikipedia.org/wiki/Pandurang_Shastri_Athavale
+[Vivekananda]: https://en.wikipedia.org/wiki/Swami_Vivekananda
+[Nondualism]: https://en.wikipedia.org/wiki/Nondualism
