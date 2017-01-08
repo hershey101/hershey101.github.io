@@ -210,7 +210,7 @@ Entities I Associate With
   When I'm thinking about a particularly challenging problem, I need complete silence and no
   distractions. I also often build a "mind-temple" to help me associate words, people and concepts
   with one another during times of focus.
-* A Tiger :tiger-face:
+* A Tiger :tiger:
   - The physical strength and fierceness of tigers are two of their most appealing characteristics.
   For some reason, I have always been attracted to tigers, and I hope to even own a pair of
   tigers one day (a pair so they can breed and don't die in captivity).
@@ -350,6 +350,7 @@ Random topics of conversation that will help you get to know me better. Some of 
 about for a long time, others not so much.
 
 __General Questions:__
+
 * How do we ensure proper communication/discussion without influencing the other person of
 our personal biases/view-points?
 * Along the same lines, during the initial phase of getting to know each other, how do I make
@@ -367,11 +368,13 @@ marriage sort of setting)?
   is a critical component.
 
 __On love:__
+
 * What is "love" (in the context of a relationship/significant other)? Also, do you
 even believe in romantic love?
 * How does one balance love with other principles/philosophies in life?
 
 __On Marriage (I'll put out a blog on this summarizing my ideas... eventually... :simple_smile:):__
+
 * Describe to me, in your own words, what "marriage" means?
 * Why do you want to get married?
 * How do you know that you are ready to take on the responsibility of marriage?
@@ -379,12 +382,14 @@ __On Marriage (I'll put out a blog on this summarizing my ideas... eventually...
 success, and what would your search-parameters/optimization criteria be?
 
 __Personal Principles/Life Philosophy:__
+
 * What are the set of personal principles that you live by, and why?
 * Will your principles work alongside mine, or do we have any clashes? In situations where
 things don't align properly, what is the proposed course of action so that if we end up together
 these issues don't come back up a few years down the road?
 
 __Miscellaneous Other Topics:__
+
 * What life was like for me growing up in India.
 * The trajectory of my family (the effort my grandparents/parents put in to get us to where
   we are today).
