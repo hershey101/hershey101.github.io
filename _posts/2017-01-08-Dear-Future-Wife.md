@@ -373,7 +373,7 @@ __On love:__
 even believe in romantic love?
 * How does one balance love with other principles/philosophies in life?
 
-__On Marriage (I'll put out a blog on this summarizing my ideas... eventually... :simple_smile:):__
+__On Marriage (I'll put out a blog on this summarizing my ideas... eventually :wink:):__
 
 * Describe to me, in your own words, what "marriage" means?
 * Why do you want to get married?
