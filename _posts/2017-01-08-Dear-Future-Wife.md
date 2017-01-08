@@ -4,8 +4,9 @@ title: Dear Future Wife/Marriage Manifesto
 ---
 Today, I will try to describe some of the things that I would like my future
 wife to know about me, as well as the contents of what I like to call,
-"The Marriage Manifesto". At a high level, this post is going to be split into
-the following sections:
+"The Marriage Manifesto".
+
+At a high level, this post is going to be split into the following sections:
 
 * [__Who/Why__](#who/why): This section describes the intended audience of this
 post, as well as my reasoning behind writing it.
