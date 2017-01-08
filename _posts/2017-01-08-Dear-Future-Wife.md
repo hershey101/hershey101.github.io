@@ -72,14 +72,18 @@ the "on-paper" criteria for potentially eligible brides (for me at least).
 These are filters such as gender, age, ethnicity, religion, looks. The typical
 filters that people use when sorting from a list of potential candidates on
 matrimonial or dating websites. However, meeting all of these women, getting to know them,
-and then deciding whom I like is simply an intractable problem. This blog post
+and then deciding whom I like is simply an intractable problem.
+
+This blog post
 provides me with a mechanism for making the search process more efficient;
 potential candidates can read this and make a more informed decision on whether
 or not we would be compatible quickly! Furthermore, I can take advantage of
 crowd sourcing by providing this post to third-parties who would be interested
 in setting me up with a woman (eg. friends, family etc.) by giving them more
 well defined search criteria (and potentially a finders fee, say, $5,000 to get
-them really motivated). Why you might ask. Your significant other is the one
+them really motivated).
+
+Why you might ask? Your significant other is the one
 person in your life that will be with you the longest (potentially 70+ years).
 Therefore, it is reasonable for you to put significant effort in trying to
 optimize the objective function of finding the most compatible mate.
