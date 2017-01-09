@@ -39,14 +39,14 @@ to isolate certain points so that they fall in exactly one of these categories.
 
 As I alluded to earlier, this blog post is primarily oriented towards
 potential candidates that I might consider marrying, which means women
-(Indian, most likely Gujarati) between the ages of 18-25.
+(most likely Indian, probably Gujarati) between the ages of 18-25.
 
 The question of why is trickier to answer. On one hand, it may seem naive of
 me to assume that I can systematically identify criterion for a person that
 I would fall in love with. On the other, I feel that the current mechanisms
 for finding one's significant other are primitive and out-dated. As an
 intellectual, I rely on my neocortex for analyzing situations and making
-the correct decision when confronted with life-changing questions. On the other hand, I
+the correct decision when confronted with life-changing questions. While I
 rely on my primitive, animalistic nature to make the appropriate flight-or-flight
 response in life-or-death situations. However, in today's society, it is
 deemed acceptable to simply make the decision of who one is going to marry
@@ -153,9 +153,8 @@ be very helpful to think about how these points would play with your lifestyle):
   workout schedule is somehow disturbed due to travel, time off etc. I'll make
   travel decisions, and choose hotels based upon the gyms available nearby so that
   I can make sure I get some exercise in even if I am on vacation. During my last
-  few trips to India, I even packed my bags full of protein powder (it took up
-  more space than my clothes!) just so I could keep my diet and workout schedule
-  on point during a month of travel.
+  few trips to India, I even packed my bags full of protein powder just so I could keep my diet and workout schedule
+  on point during a month of travel (it took up more space than my clothes!).
     - I like vacations which involve a lot of physical exercise (walking, hiking, biking,
       tennis, etc.)
     so I can at least keep my cardio up even if I'm out of the gym
@@ -168,7 +167,8 @@ be very helpful to think about how these points would play with your lifestyle):
 Entities I Associate With
 -------------------------
 
-* [Swami Vivekananda][Vivekananda]/[Pandurang-Shashri Athevle][Dadaji] (Dadaji if you are a "Swadhyayie". Completely butchered the spelling of that word.)
+* [Swami Vivekananda][Vivekananda]/[Pandurang-Shashri Athevle][Dadaji]
+(Dadaji if you are a "Swadhyayie". Completely butchered the spelling of that word.)
   - Vivekananda was one of the greatest figures in Indian history, and a person that I look up to
   and respect a lot. First and foremost, I highly recommend everyone who is interested in the
   Vedic philosophy to read his wiki entry, followed up with 'The Complete Works of Swami
@@ -190,7 +190,7 @@ Entities I Associate With
     - While his life's work resulted in a great deal of impact for a large number of people,
     since he passed away, Swadhyay has not been the same.
   - These are entities who have carved out a path to uplift man and provided them an elevator to
-  heaven instead of a staircase. Nevertheless, they were, after all people. Eventually, one, if 
+  heaven instead of a staircase. Eventually, one, if 
   lucky, reaches a point in their life where all of these philosophies seem childlike. My goal is
   to one day reach that point with the aggregate teachings of the Advaita, to one day, be forced
   to do research to come up with my own answers to my questions.
@@ -273,7 +273,7 @@ couple.
     whose the opposite of that.
 * You need to be the type of person who prioritizes healthy living
   - Go work out, do yoga, follow a diet etc. I spend about two hours at the gym every day, I
-  expect my significant other to give equal importance to her body and wellbeing. While there
+  expect my significant other to give equal importance to her body and well being. While there
   are certain factors in life which are beyond our control, this is one that is definitely well
   within your control, and something that should be prioritized if you want to live a healthy life.
 * You absolutely must be interested in philosophy/spirituality
@@ -282,7 +282,8 @@ couple.
   But it also sucks, because Hinduism is one of the most misunderstood (and in a sense poisoned)
   religions/philosophies. I expect you to have given some thought to the "big picture" questions:
   "Who am I?", "Why am I here?", "What lies beyond this world (and what came before it)?" and
-  assuming you believe in god: "What is 'God'?". Think of it like this, if you had a PhD in CS
+  assuming you believe in god: "What is 'God'?".  
+  Think of it like this, if you had a PhD in CS
   and were looking for a partner to start a research lab with, you wouldn't team up with a high
   school graduate with just an intro to CS course would you? Similarly, I don't believe the
   philosophical/spiritual journey has an end, but I expect you to be at a certain level so that
@@ -295,15 +296,17 @@ The "Nice-to-haves":
   - This takes care of the last bullet-point above. It's like when you look at someone's resume
   and see they graduated from an Ivy league college. You implicitly have some faith that they 
   can't be complete idiots.
-* Speaking of which, be a STEM graduate from an Ivy league or equivalent school (or currently be studying in one).
-  - I don't really want to write off non-STEM people without meeting them, but it's highly unlikely
-  that we would get along, based on my past experiences and ex-girlfriends.
+* Speaking of which, attend (or have graduated from) Ivy league or equivalent school.
   - Your college years are some of the most formative years that define who you are going to be in
   life in a lot of ways. Being from a top-tier school definitely matters because we will have
   more shared experiences and be able to connect at a certain level that we simply cannot if you
   graduated from some random community college. Plus, the colleges have an application process which
   is meant to evaluate your intelligence and qualifications (in theory), I shouldn't be redoing the
   work on that front again.
+* Be a STEM person (for those that don't know. STEM = Science, Technology, Engineering, Math)
+  - I don't really want to write off non-STEM people without meeting them, but it's highly unlikely
+  that we would get along, based on my past experiences and ex-girlfriends.
+  - Also, its nice to know you'll be able to do something useful in society and actually get a job
 * Know at least some level of computer science
   - CS is a vital skill set in the 21st century. If you are a CS nerd like me, that's awesome I 
   already like you (we need more women in CS, go out and recruit some more).
@@ -314,14 +317,23 @@ astrophysics or quantum mechanics), or Mathematics
   at all good (as evidence by this website).
 * Know how to cook well
   - This one is extremely important.
+* Possess some sort of skill that I'd want to learn
+  - Maybe something like singing, dancing etc. You could draw, and that's cool, but I know I'll
+  never be able to draw so I'm not going to even bother (though you'll definitely get bonus points for it).
 * Be attractive (naturally beautiful)
   - Obviously no one WANTS to be with an ugly person
+  - As a prerequisite, if I'm talking to you as part of one of those arranged marriage setups, I require
+  a photo of you WITHOUT makeup on. I want to know the face I'll be staring at when we are in bed, not
+  what other people will be staring at when we go out.
+  _Must control self from ranting about makeup_
 * Don't be a stereotypical girl
   - By this I mean someone who is clicky, needy, talks all the time about pointless things, has to have
   makeup on in order to go out, or wastes money in meaningless and inherently worthless
   expenditures such as handbags, shoes, diamond jewelry etc.
     - Oh boy, I can go on a rant here about how utterly useless diamonds are and no reasonably 
     logical person should ever buy a diamond but for the sake of sanity I'll restrain myself.
+    - If you want to buy something, go buy gold (preferably bricks). Gold is actually a sane investment
+    strategy.
 
 
 <a name="life-together"></a>Our Life Together
@@ -344,7 +356,7 @@ to make due. Maybe we can start a blog together (if you are the type of person w
 * Raise five kids: Oh heck yea I want five kids! Well in the ideal world I do anyway. In the
 practical real world where kids cost money, I think I might only have two or three. Kids
 are awesome (don't worry, we'll dump them off at my parents house until they are potty trained
-:stuck_out_tongue_closed_eyes:)
+:stuck_out_tongue:)
 * Have lots of sex (obviously, as if there was any doubt)
 
 
