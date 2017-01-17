@@ -292,20 +292,6 @@ couple.
 The "Nice-to-haves":
 --------------------
 
-__Update__(2017-01-16):
-
-Apparently, since there has been some confusion regarding this section, let me clarify the title
-once again. The characteristics below are "nice to have" in a girl. In the sense that, if I were
-to design the ideal soulmate in a lab, I'd instill these characteristics into her. That does
-__NOT__ mean however, that I'm absolutely opposed to meeting you if you do not satisfy a large
-subset of these criteria.
-
-Furthermore, for the sake of clarity: Smoking and drugs are in the "deal-breaker" category
-whereas the nice-to-haves regarding lifestyle would be someone who doesn't drink and is vegatarian.
-The drinking one is a bit nuanced however, since for me, someone who consumes alcohol at a high
-frequency (greater than once a week) would end up being crossed off under the "deal-breaker"
-category.
-
 * Be a swathyayie (again totally not spelling that correctly)
   - This takes care of the last bullet-point above. It's like when you look at someone's resume
   and see they graduated from an Ivy league college. You implicitly have some faith that they 
@@ -352,6 +338,21 @@ astrophysics or quantum mechanics), or Mathematics
     logical person should ever buy a diamond but for the sake of sanity I'll restrain myself.
     - If you want to buy something, go buy gold (preferably bricks). Gold is actually a sane investment
     strategy.
+
+__Update (2017-01-16):__
+
+Apparently, since there has been some confusion regarding this section, let me clarify the title
+once again. The characteristics above are "nice to have" in a girl. In the sense that, if I were
+to design the ideal soulmate in a lab, I'd instill these characteristics into her. That does
+__NOT__ mean however, that I'm absolutely opposed to meeting you if you do not satisfy a large
+subset of these criteria.
+
+Furthermore, for the sake of clarity: Smoking and drugs are in the "deal-breaker" category
+whereas the nice-to-haves regarding lifestyle would be someone who doesn't drink and is vegatarian.
+The drinking one is a bit nuanced however, since for me, someone who consumes alcohol at a high
+frequency (greater than once a week) would end up being crossed off under the "deal-breaker"
+category.
+
 
 <a name="life-together"></a>Our Life Together
 =================
