@@ -292,6 +292,20 @@ couple.
 The "Nice-to-haves":
 --------------------
 
+__Update__(2017-01-16):
+
+Apparently, since there has been some confusion regarding this section, let me clarify the title
+once again. The characteristics below are "nice to have" in a girl. In the sense that, if I were
+to design the ideal soulmate in a lab, I'd instill these characteristics into her. That does
+__NOT__ mean however, that I'm absolutely opposed to meeting you if you do not satisfy a large
+subset of these criteria.
+
+Furthermore, for the sake of clarity: Smoking and drugs are in the "deal-breaker" category
+whereas the nice-to-haves regarding lifestyle would be someone who doesn't drink and is vegatarian.
+The drinking one is a bit nuanced however, since for me, someone who consumes alcohol at a high
+frequency (greater than once a week) would end up being crossed off under the "deal-breaker"
+category.
+
 * Be a swathyayie (again totally not spelling that correctly)
   - This takes care of the last bullet-point above. It's like when you look at someone's resume
   and see they graduated from an Ivy league college. You implicitly have some faith that they 
@@ -307,6 +321,10 @@ The "Nice-to-haves":
   - I don't really want to write off non-STEM people without meeting them, but it's highly unlikely
   that we would get along, based on my past experiences and ex-girlfriends.
   - Also, its nice to know you'll be able to do something useful in society and actually get a job
+  - __Update (2017-01-16):__ For the purposes of this conversation, I'm going to classify both
+  Philosophy and Psychology majors under "Science" even though neither is thought of a hard-science. I would
+  be extremely surprised if this really makes much of a difference to anyone reading this however
+  since I have yet to meet a single Indian girl who is either a Philosophy or Psychology major.
 * Know at least some level of computer science
   - CS is a vital skill set in the 21st century. If you are a CS nerd like me, that's awesome I 
   already like you (we need more women in CS, go out and recruit some more).
@@ -334,7 +352,6 @@ astrophysics or quantum mechanics), or Mathematics
     logical person should ever buy a diamond but for the sake of sanity I'll restrain myself.
     - If you want to buy something, go buy gold (preferably bricks). Gold is actually a sane investment
     strategy.
-
 
 <a name="life-together"></a>Our Life Together
 =================
